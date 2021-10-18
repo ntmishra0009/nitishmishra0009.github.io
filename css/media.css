@@ -1,0 +1,83 @@
+@media only screen and (max-width:600px)
+{
+   .modal_content_customize
+   {
+      width:auto;
+   } 
+
+   .center
+   {
+      position: relative;
+      left: 30px;
+   }
+
+   .center h1
+   {
+      font-family: Heebo, sans-serif;
+      font-weight: 900;
+      font-size: 3.5rem;
+      line-height: 70px;
+      color: #323a3e;
+      margin: 0;
+   }
+}
+
+@media only screen and (min-width:600px)
+{
+   .modal_content_customize
+   {
+      width:auto;
+   }
+
+   .center
+   {
+      position: relative;
+      left: 30px;
+   }
+
+   .card1
+   {
+      height: auto!important;
+   }
+}
+
+@media only screen and (min-width:752px)
+{  
+   .modal_content_customize
+   {
+      width:70%;
+   }
+
+   .center
+   {
+      position: relative;
+      left: 50px;
+   }
+   .card1
+   {
+      height: 500px!important;
+   }
+   
+}
+
+@media only screen and (min-width:992px)
+{  
+
+   .modal_content_customize
+   {
+      width:40%;
+   }
+
+   .center
+   {
+      position: relative;
+      left: 60px;
+   }
+   
+}
+
+@media only screen and (min-width:1200px)
+{  
+   
+   
+}
